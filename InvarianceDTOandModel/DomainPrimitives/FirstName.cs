@@ -8,7 +8,7 @@ namespace ValidateTheNameModelBinding.DomainPrimitives
 
         public FirstName(string name)
         {
-            // validateName(name);
+            validateName(name);
             value = name;
         }
 
