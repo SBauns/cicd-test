@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateTheNameModelBinding", "InvarianceDTOandModel\ValidateTheNameModelBinding.csproj", "{EC9995E7-525E-4456-B243-F20C34D93ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invariance.Tests", "Invariance.Tests\Invariance.Tests.csproj", "{210EDD0C-6FE0-4B83-984B-92AA32C03F67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC9995E7-525E-4456-B243-F20C34D93ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9995E7-525E-4456-B243-F20C34D93ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9995E7-525E-4456-B243-F20C34D93ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9995E7-525E-4456-B243-F20C34D93ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{210EDD0C-6FE0-4B83-984B-92AA32C03F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210EDD0C-6FE0-4B83-984B-92AA32C03F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210EDD0C-6FE0-4B83-984B-92AA32C03F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210EDD0C-6FE0-4B83-984B-92AA32C03F67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
